@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Aviral%20Verma&fontSize=60&fontAlignY=40&animation=fadeIn&desc=AI%20%7C%20Python%20%7C%20Innovation&descAlignY=60"/>
+</p>
 <h1 align="center">Hi 👋, I'm Aviral Verma</h1>
 <h3 align="center">B.Tech Student | AI & Data Science Enthusiast | Python Developer</h3>
 
