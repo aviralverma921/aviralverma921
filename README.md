@@ -1,11 +1,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Aviral%20Verma&fontSize=60&fontAlignY=40&animation=fadeIn&desc=AI%20%7C%20Python%20%7C%20Innovation&descAlignY=60"/>
-</p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Future+AI+Engineer;Python+Developer;Building+The+Future;Data+Science+Enthusiast"/>
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-<p align="center">
-<img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4dXNwN2V3eXRkN3g0YTF5b3l6cW42cXl2cGl0ZzE4eHBqaTR6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
-</p>
 <h1 align="center">Hi 👋, I'm Aviral Verma</h1>
 <h3 align="center">B.Tech Student | AI & Data Science Enthusiast | Python Developer</h3>
 
