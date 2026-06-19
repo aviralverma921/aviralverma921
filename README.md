@@ -1,67 +1,187 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Aviral%20Verma&fontSize=60&fontAlignY=40&animation=fadeIn&desc=AI%20%7C%20Python%20%7C%20Innovation&descAlignY=60"/>
-<h1 align="center">Hi 👋, I'm Aviral Verma</h1>
-<h3 align="center">B.Tech Student | AI & Data Science Enthusiast | Python Developer</h3>
+<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/matrix.gif">
+</p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Aviral%20Verma&fontSize=60&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Data%20Science%20%7C%20Python%20Developer&descAlignY=58"/>
+</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Universe;AI+%26+Data+Science+Enthusiast;Python+Developer;Building+The+Future+With+Code;Always+Learning+Something+New"/>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+Student+at+LPU;Python+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Things" />
+  <img width="500" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 </p>
-# Hi 👋, I'm Aviral Verma
+<p align="center">
+<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/matrix.gif">
+</p>
 
-### 🎓 B.Tech Student at Lovely Professional University
 
-### 💻 Aspiring Data Scientist | AI Enthusiast | Python Developer
+---
 
-Welcome to my GitHub profile!
+# 💫 About Me
 
-I'm a B.Tech student at Lovely Professional University with a strong interest in Data Science, Artificial Intelligence, Machine Learning, and Software Development. I enjoy learning new technologies, solving real-world problems, and building innovative projects.
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
-## 🚀 About Me
+👋 Hey there! I'm **Aviral Verma**
 
-* 🎓 Pursuing B.Tech at Lovely Professional University
-* 🌱 Currently learning Python, Data Science, and AI
-* 💡 Interested in Machine Learning and Software Development
-* 📚 Continuously improving my coding and problem-solving skills
-* 🎯 Aspiring to build impactful technology solutions
+🚀 Passionate about technology, innovation, and building impactful solutions.
 
-## 🛠️ Skills & Technologies
+🧠 Exploring **Artificial Intelligence**, **Data Science**, and next-generation technologies.
 
-* Python
-* C/C++
-* HTML, CSS, JavaScript
-* SQL
-* Git & GitHub
-* Data Structures & Algorithms
-* Data Science Fundamentals
+🐍 Python developer focused on creating practical and scalable applications.
 
-## 🌱 Currently Exploring
+💡 Turning ideas into reality through code, creativity, and continuous learning.
 
-* Machine Learning
-* Artificial Intelligence
-* Data Analysis
-* Open Source Contributions
-* Full Stack Development
+🌱 Constantly upgrading my skills and exploring new technologies.
 
-## 📂 Projects
+🎯 Goal: Build intelligent systems and software that solve real-world problems.
 
-* 🤖 AI-Based Applications
-* 📊 Data Analysis Projects
-* 🌐 Web Development Projects
-* 🛒 Smart Management Systems
+⚡ **Learn → Build → Improve → Repeat**
 
-## 📈 GitHub Goals
+<br clear="both">
 
-* Build meaningful projects
-* Contribute to open-source communities
-* Strengthen problem-solving skills
-* Learn advanced AI and ML concepts
+---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
-* GitHub: github.com/aviralverma921
-* LinkedIn: Add your LinkedIn profile
-* Email: Add your email
+<p align="center">
+<a href="https://instagram.com/__aviral_verma_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-### ⚡ Fun Fact
+<a href="https://www.linkedin.com/in/aviral-verma-062551341">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-"Every expert was once a beginner. I'm passionate about learning, building, and growing every day."
+<a href="mailto:aviralverma571@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+* 🤖 Artificial Intelligence
+* 📊 Data Science
+* 🐍 Python Development
+* 🌐 Full Stack Development
+* 📈 Problem Solving
+* 🚀 Real-World Projects
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aviralverma921&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=aviralverma921&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralverma921&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aviralverma921&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aviralverma921&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🔹 AI Chatbot
+
+🔹 Smart Grocery Management System
+
+🔹 Portfolio Website
+
+🔹 Data Analysis Dashboard
+
+🔹 Python Automation Tools
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build impactful projects
+
+✅ Master Python Development
+
+✅ Learn Machine Learning & AI
+
+✅ Contribute to Open Source
+
+✅ Strengthen Problem-Solving Skills
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<h2 align="center">💡 Developer Mindset</h2>
+
+<p align="center">
+<img width="90%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=Learn+Relentlessly;Build+Consistently;Fail+Fearlessly;Improve+Continuously;Innovate+Endlessly" />
+</p>
+
+<div align="center">
+
+> ### 💭 "First, solve the problem. Then, write the code."
+>
+> **— John Johnson**
+
+</div>
+
+<h3 align="center">
+  ⚡ Thanks for visiting my profile ⚡
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Code+%7C+Create+%7C+Innovate;Keep+Learning+Keep+Growing;See+You+Again+%F0%9F%91%8B"/>
+</p>
