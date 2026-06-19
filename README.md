@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Aviral Verma
 
-<!--
-**aviralverma921/aviralverma921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 BCA Student | Data Science & AI Enthusiast | Python Learner
 
-Here are some ideas to get you started:
+I'm a passionate BCA student specializing in **Data Science and Artificial Intelligence**. I enjoy learning new technologies, solving problems, and building projects that create real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* Python Programming
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+* Web Development
+* Git & GitHub
+
+## 💻 Skills
+
+* Python
+* HTML, CSS, JavaScript
+* Data Analysis
+* SQL
+* Git & GitHub
+* Problem Solving
+
+## 🔭 Current Goals
+
+* Build AI and Data Science projects
+* Contribute to Open Source
+* Improve DSA and Programming Skills
+* Gain Internship Experience
+* Learn Advanced Machine Learning
+
+## 📂 Featured Projects
+
+* 🛒 Smart Grocery Management System
+* 🤖 AI Chatbot Projects
+* 📊 Data Analysis Projects
+* 🌐 Responsive Web Applications
+
+## 📈 GitHub Stats
+
+* Consistent Learner
+* Open Source Enthusiast
+* Passionate Developer
+
+## 🤝 Connect With Me
+
+* GitHub: github.com/aviralverma921
+* LinkedIn: Add Your LinkedIn Profile
+* Email: Add Your Email
+
+### ⚡ Fun Fact
+
+I love turning ideas into projects and continuously learning new technologies every day!
